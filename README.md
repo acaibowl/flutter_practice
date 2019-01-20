@@ -1,6 +1,7 @@
-# practice_app
+# Udemyの練習用アプリを格納
 
-A new Flutter project.
+https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/learn/v4/overview
+
 
 ## Getting Started
 
